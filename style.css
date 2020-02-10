@@ -1,0 +1,16 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+div.display-1.text-center {
+	height: 500px;
+	text-align: center;
+	margin-left: 15px;
+	margin-top: 50px;
+}
+
+footer {
+	background: #3423A6;
+	color: white;
+}
