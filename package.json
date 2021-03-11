@@ -1,0 +1,23 @@
+{
+  "name": "cms",
+  "version": "1.0.0",
+  "description": "Noob site to edit through as we get skill points",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./app.js", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fear-the-reaper/teamSSNoobSite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fear-the-reaper/teamSSNoobSite/issues"
+  },
+  "homepage": "https://github.com/fear-the-reaper/teamSSNoobSite#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
